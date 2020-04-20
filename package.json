@@ -1,0 +1,21 @@
+{
+  "name": "pollen",
+  "version": "1.0.0",
+  "description": "get croatian pollen prognosis",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "serverless-http": "^2.3.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.2"
+  }
+}
