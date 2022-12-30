@@ -15,7 +15,7 @@
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "sinon": "^9.0.2"
   }
 }
